@@ -1,0 +1,16 @@
+.header-component {
+  display: flex;
+  justify-content: flex-start;
+  background-color: #1f7ca4;
+  padding: 10px 20px;
+}
+
+.header-component__item {
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+.header-component__item a {
+  color: #fff;
+  text-decoration: none;
+}
